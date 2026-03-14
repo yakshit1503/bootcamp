@@ -3,11 +3,11 @@
 ## Overall Task: Push app to https://github.com/vicky-angular/bootcamp.git
 
 ### Steps:
-- [ ] 1. git init
-- [ ] 2. git add .
-- [ ] 3. git commit -m \"Initial commit: Complete frontend bootcamp app\"
-- [ ] 4. git remote add origin https://github.com/vicky-angular/bootcamp.git
-- [ ] 5. git checkout -b blackboxai/frontend-bootcamp-app
-- [ ] 6. git push -u origin blackboxai/frontend-bootcamp-app
+- [x] 1. git init
+- [x] 2. git add .
+- [x] 3. git commit -m \"Initial commit: Complete frontend bootcamp app\"
+- [x] 4. git remote add origin https://github.com/vicky-angular/bootcamp.git
+- [x] 5. git checkout -b blackboxai/frontend-bootcamp-app
+- [x] 6. git push -u origin blackboxai/frontend-bootcamp-app
 
-Next: Execute step 1.
+**Complete!** Repo pushed to https://github.com/vicky-angular/bootcamp/tree/blackboxai/frontend-bootcamp-app
